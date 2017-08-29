@@ -3,7 +3,7 @@
 """Information of this python file using unicode
 
 You need to write down somethings for using unicode like 'Han-geul'.
-And you can know when, where, how (interpreter).
+And you can get when it is, where you are, which interpreter you use.
 """
 
 import sys
