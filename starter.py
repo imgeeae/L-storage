@@ -12,7 +12,6 @@ sys.setdefaultencoding('utf-8')
 
 __author__ = "Ellena Jiae Lim"
 __copyright__ = "Copyright 2017, Mackevision Korea"
-__credits__ = "Ellena Jiae Lim"
 
 __license__ = "GPL"
 __version__ = "1.1.0"
