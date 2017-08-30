@@ -3,10 +3,12 @@
 """Example of python file using unicode
 
 For using unicode like 'Han-geul', some lines are added.
-And you can know authorship information.
+And we can get when it is, where you are, which interpreter you use.
 """
 
 import sys
+import os
+import datetime
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -20,7 +22,7 @@ __maintainer__ = "Ellena Jiae Lim"
 __email__ = "ellena.lim@mackevision.com"
 __status__ = "Production - PDM"
 
-"""
+
 # Get current time (yyyy-mm-dd_hh_mm)
 now = str(datetime.datetime.now())
 now = now[0:16]
@@ -32,7 +34,5 @@ here = os.getcwd()
 
 print now
 print here
-
 print sys.executable
-print sys.path
-"""
+
