@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """Example of python file using unicode
 
-We need to write down somethings for using unicode like 'Han-geul'
+For using unicode like 'Han-geul', some lines are added.
+And you can know authorship information.
 """
 
 import sys
