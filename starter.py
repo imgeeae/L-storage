@@ -6,6 +6,8 @@ We need to write down somethings for using unicode like 'Han-geul'
 """
 
 import sys
+import os
+import datetime
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -19,7 +21,7 @@ __maintainer__ = "Ellena Jiae Lim"
 __email__ = "ellena.lim@mackevision.com"
 __status__ = "Production - PDM"
 
-"""
+
 # Get current time (yyyy-mm-dd_hh_mm)
 now = str(datetime.datetime.now())
 now = now[0:16]
@@ -34,4 +36,3 @@ print here
 
 print sys.executable
 print sys.path
-"""
