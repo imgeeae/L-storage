@@ -3,6 +3,7 @@
 """Example of python file using unicode
 
 We need to write down somethings for using unicode like 'Han-geul'
+And we can get when it is, where you are, which interpreter you use.
 """
 
 import sys
