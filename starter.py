@@ -35,4 +35,4 @@ here = os.getcwd()
 print now
 print here
 print sys.executable
-
+# 충돌
