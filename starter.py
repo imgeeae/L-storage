@@ -35,5 +35,3 @@ here = os.getcwd()
 print now
 print here
 print sys.executable
-# 충돌
-# 마스터 브랜치 으아
